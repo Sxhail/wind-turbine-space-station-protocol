@@ -1,4 +1,4 @@
-# Wind Turbine to Space Station — Network Protocol
+# Wind Turbine to Space Station Network Protocol
 
 A custom UDP-based network protocol that simulates a real-time control and monitoring link between an offshore wind turbine and a space station, routed through a LEO (Low-Earth Orbit) satellite relay. Built and demonstrated across three physical laptops on a local network.
 
