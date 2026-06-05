@@ -1,8 +1,5 @@
 # Wind Turbine to Space Station — Network Protocol
 
-> CSU33D03 Computer Networks 2025/26 · Trinity College Dublin · Group 3  
-> Suhail Jameel · Yash Chhillar · Kanishk Daga
-
 A custom UDP-based network protocol that simulates a real-time control and monitoring link between an offshore wind turbine and a space station, routed through a LEO (Low-Earth Orbit) satellite relay. Built and demonstrated across three physical laptops on a local network.
 
 ---
